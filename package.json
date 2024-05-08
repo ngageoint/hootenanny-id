@@ -83,7 +83,7 @@
     "cpx": "^1.5.0",
     "css-loader": "^6.5.1",
     "css-minimizer-webpack-plugin": "^3.1.4",
-    "d3": "4.13.0",
+    "d3": "7.8.2",
     "ecstatic": "^4.1.4",
     "editor-layer-index": "git+https://git@github.com/osmlab/editor-layer-index.git#gh-pages",
     "eslint": "^8.3.0",
